@@ -45,33 +45,40 @@ Optimized for Android with production-ready build configuration
 **Technology Stack**
 LayerTechnologiesFrontendReact Native, TypeScript, React Navigation, NativeWindState ManagementReact Context APIBackendPython, Flask, RESTful APIDatabaseFirebase Firestore (NoSQL)AuthenticationFirebase AuthenticationAI/MLYOLOv8, OpenCV, PyTorchTraining & AnnotationRoboflow, Google Colab
 
+![Image](https://github.com/user-attachments/assets/ac2217b6-43a7-4de1-a411-c6ce377d393f)
+![Image](https://github.com/user-attachments/assets/aeeebec1-bd3e-4445-bfb9-38ef4a623b2e)
+![Image](https://github.com/user-attachments/assets/dfdc311a-922e-4f11-9973-100888a5e687)
+![Image](https://github.com/user-attachments/assets/ff807832-f14c-46bc-8795-2142cc442c73)
+![Image](https://github.com/user-attachments/assets/49dfbd84-c047-4c13-aa76-a8a9502bfdaa)
+![Image](https://github.com/user-attachments/assets/5fa9fba4-4c1b-406e-9338-ed955689e68d)
+
 **Application Screenshots**
 <table>
   <tr>
     <td align="center">
-      <img src="https://placeholder.com/login" alt="Login Screen" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/ac2217b6-43a7-4de1-a411-c6ce377d393f" alt="Login Screen" width="250"/><br />
       <b>Login & Authentication</b>
     </td>
     <td align="center">
-      <img src="https://placeholder.com/onboarding" alt="Onboarding" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/aeeebec1-bd3e-4445-bfb9-38ef4a623b2e" alt="Onboarding" width="250"/><br />
       <b>Personalized Onboarding</b>
     </td>
     <td align="center">
-      <img src="https://placeholder.com/dashboard" alt="Dashboard" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/dfdc311a-922e-4f11-9973-100888a5e687" alt="Dashboard" width="250"/><br />
       <b>Main Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://placeholder.com/analysis" alt="AI Analysis" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/ff807832-f14c-46bc-8795-2142cc442c73" alt="AI Analysis" width="250"/><br />
       <b>AI Food Analysis</b>
     </td>
     <td align="center">
-      <img src="https://placeholder.com/streak" alt="Streak Tracker" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/49dfbd84-c047-4c13-aa76-a8a9502bfdaa" alt="Streak Tracker" width="250"/><br />
       <b>Streak Calendar</b>
     </td>
     <td align="center">
-      <img src="https://placeholder.com/profile" alt="Profile" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/5fa9fba4-4c1b-406e-9338-ed955689e68d" alt="Profile" width="250"/><br />
       <b>User Profile</b>
     </td>
   </tr>
