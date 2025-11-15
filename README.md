@@ -107,7 +107,7 @@ The heart of NutriLens is a custom-trained **YOLOv8 object detection model** spe
 
 ### Resources
 
-- **Trained Model:** [Download from Hugging Face](https://huggingface.co/ViratSonawane/NutriLens-BackendModel/resolve/main/best.pt)
+- **NutriLens Trained Model:** [Download from Hugging Face](https://huggingface.co/ViratSonawane/NutriLens-BackendModel/resolve/main/best.pt)
 - **Dataset & Annotations:** [View on Roboflow](https://universe.roboflow.com/nutrilens-b0kk2/nutrilens_phase1-pex8h)
 - **Training Notebook:** [View on Google Colab](https://colab.research.google.com/drive/1Pf26RzV0JAaCf6-Bk3YWATcFuQxeiBN6?usp=sharing)
 
@@ -167,13 +167,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-#### Download AI Model
-
-The custom-trained YOLOv8 model is not included in this repository due to file size.
-
-**Download the model:** [best.pt from Hugging Face](https://huggingface.co/ViratSonawane/NutriLens-BackendModel/resolve/main/best.pt)
-
-Place `best.pt` in the `NutriLens-backend/` folder.
 
 #### Configure Firebase Admin
 
