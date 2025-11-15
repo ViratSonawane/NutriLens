@@ -1,0 +1,39 @@
+# --- Global Ignores ---
+.DS_Store
+*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+Thumbs.db
+
+# --- React Native (Frontend) ---
+NutriLensApp/node_modules/
+NutriLensApp/android/app/build/
+NutriLensApp/android/build/
+NutriLensApp/android/.gradle/
+NutriLensApp/ios/build/
+NutriLensApp/android/app/.cxx/
+
+# --- Python (Backend) ---
+NutriLens-backend/venv/
+NutriLens-backend/.venv/
+NutriLens-backend/__pycache__/
+NutriLens-backend/*.pyc
+
+# --- SECRET FILES ---
+NutriLensApp/android/app/*.keystore
+NutriLensApp/android/gradle.properties
+NutriLensApp/android/app/google-services.json
+NutriLens-backend/serviceAccountKey.json
+
+# --- Trained model ---
+NutriLens-backend/*.pt
+NutriLens-backend/best.pt
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+
+# --- Environment Variables ---
+*.env
+.env.*

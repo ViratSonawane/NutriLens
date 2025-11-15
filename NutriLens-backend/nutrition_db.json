@@ -1,0 +1,101 @@
+{
+  "Brown Rice": {
+    "standard_serving_grams": 195,
+    "calories_per_100g": 123,
+    "protein_per_100g": 2.7,
+    "carbs_per_100g": 26,
+    "fats_per_100g": 0.9
+  },
+  "Butter": {
+    "standard_serving_grams": 14,
+    "calories_per_100g": 717,
+    "protein_per_100g": 0.9,
+    "carbs_per_100g": 0.1,
+    "fats_per_100g": 81
+  },
+  "Chai": {
+    "standard_serving_grams": 180,
+    "calories_per_100g": 50,
+    "protein_per_100g": 1.5,
+    "carbs_per_100g": 7,
+    "fats_per_100g": 2
+  },
+  "Chapati": {
+    "standard_serving_grams": 40,
+    "calories_per_100g": 297,
+    "protein_per_100g": 10.5,
+    "carbs_per_100g": 60,
+    "fats_per_100g": 1.5
+  },
+  "Dosa": {
+    "standard_serving_grams": 100,
+    "calories_per_100g": 160,
+    "protein_per_100g": 4,
+    "carbs_per_100g": 30,
+    "fats_per_100g": 3
+  },
+  "Fish Curry": {
+    "standard_serving_grams": 250,
+    "calories_per_100g": 130,
+    "protein_per_100g": 15,
+    "carbs_per_100g": 5,
+    "fats_per_100g": 6
+  },
+  "Fried Fish": {
+    "standard_serving_grams": 100,
+    "calories_per_100g": 200,
+    "protein_per_100g": 20,
+    "carbs_per_100g": 10,
+    "fats_per_100g": 10
+  },
+  "Gulab Jamun": {
+    "standard_serving_grams": 40,
+    "calories_per_100g": 350,
+    "protein_per_100g": 5,
+    "carbs_per_100g": 60,
+    "fats_per_100g": 10
+  },
+  "Jeera Rice": {
+    "standard_serving_grams": 180,
+    "calories_per_100g": 150,
+    "protein_per_100g": 3,
+    "carbs_per_100g": 30,
+    "fats_per_100g": 2
+  },
+  "Pav Bhaji": {
+    "standard_serving_grams": 250,
+    "calories_per_100g": 90,
+    "protein_per_100g": 3,
+    "carbs_per_100g": 12,
+    "fats_per_100g": 3.5
+  },
+  "Rice": {
+    "standard_serving_grams": 180,
+    "calories_per_100g": 130,
+    "protein_per_100g": 2.7,
+    "carbs_per_100g": 28,
+    "fats_per_100g": 0.3
+  },
+  "Vada pav": {
+    "standard_serving_grams": 150,
+    "calories_per_100g": 210,
+    "protein_per_100g": 6,
+    "carbs_per_100g": 30,
+    "fats_per_100g": 8
+  },
+  "ghee": {
+    "standard_serving_grams": 5,
+    "calories_per_100g": 899,
+    "protein_per_100g": 0,
+    "carbs_per_100g": 0,
+    "fats_per_100g": 99.9
+  },
+  "samosa": {
+    "standard_serving_grams": 50,
+    "calories_per_100g": 262,
+    "protein_per_100g": 4,
+    "carbs_per_100g": 32,
+    "fats_per_100g": 17
+  }
+}
+
