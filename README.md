@@ -2,13 +2,6 @@
 
 **Your Personal AI Nutritionist for Indian Cuisine**
 
-[![React Native](https://img.shields.io/badge/React%20Native-0.72-blue.svg)](https://reactnative.dev/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue.svg)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://www.python.org/)
-[![YOLOv8](https://img.shields.io/badge/YOLOv8-Computer%20Vision-orange.svg)](https://github.com/ultralytics/ultralytics)
-[![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow.svg)](https://firebase.google.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](LICENSE)
-
 ---
 
 ## Overview
@@ -70,30 +63,30 @@ This project showcases end-to-end development capabilities: from data annotation
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ac2217b6-43a7-4de1-a411-c6ce377d393f" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/aeeebec1-bd3e-4445-bfb9-38ef4a623b2e" width="250"/><br />
       <b>Login & Authentication</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/aeeebec1-bd3e-4445-bfb9-38ef4a623b2e" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/ac2217b6-43a7-4de1-a411-c6ce377d393f" width="250"/><br />
       <b>Personalized Onboarding</b>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/dfdc311a-922e-4f11-9973-100888a5e687" width="250"/><br />
+      <img src="https://github.com/user-attachments/assets/ff807832-f14c-46bc-8795-2142cc442c73" width="250"/><br />
       <b>Main Dashboard</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/ff807832-f14c-46bc-8795-2142cc442c73" width="250"/><br />
-      <b>AI Food Analysis</b>
+      <img src="https://github.com/user-attachments/assets/dfdc311a-922e-4f11-9973-100888a5e687" width="250"/><br />
+      <b>Main Dashboard</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/49dfbd84-c047-4c13-aa76-a8a9502bfdaa" width="250"/><br />
-      <b>Streak Calendar</b>
+      <b>AI Food Analysis</b>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/5fa9fba4-4c1b-406e-9338-ed955689e68d" width="250"/><br />
-      <b>User Profile</b>
+      <b>Streak Calendar</b>
     </td>
   </tr>
 </table>
