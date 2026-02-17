@@ -265,12 +265,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## Acknowledgments
+## Acknowledgments.
 
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection framework
-- [Roboflow](https://roboflow.com/) for dataset management and annotation tools
-- [Firebase](https://firebase.google.com/) for authentication and database services
-- The React Native community for excellent documentation and support
+- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) for the object detection framework.
+- [Roboflow](https://roboflow.com/) for dataset management and annotation tools.
+- [Firebase](https://firebase.google.com/) for authentication and database services.
+- The React Native community for excellent documentation and support.
 
 ---
 
